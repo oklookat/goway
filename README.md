@@ -1,6 +1,9 @@
 # goway — golang router
 
 
+**for go 1.17+**
+
+
 ## Features
 - Route groups
 - Allowed methods
